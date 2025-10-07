@@ -1,10 +1,10 @@
 # 🎧 AudiumLab
 
-AudiumLab is an interactive educational application built with Unity (Windows) that teaches the fundamentals of sound and music in computer science. It combines physics, acoustics, and digital audio concepts into a clear, visual, and interactive learning experience.
+AudiumLab is a project for Computer Game Design course at Gdańsk Tech Winter 2025/26. The app was created to expand upon audio and sound parts of Multimedia & Interfaces lecture with a focus on helping students understand related theoretical and technical subjects. For ease of use and due to requirements the program was made using Unity.
 
 ---
 
-## 🧩 Key Features
+## 🧩 Features
 
 - 10 interactive lessons covering:
   <ol type="1">
