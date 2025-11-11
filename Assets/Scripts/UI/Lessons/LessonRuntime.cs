@@ -15,7 +15,7 @@ namespace UI.Lessons {
         private int m_currentSlide;
 
         private void Start() {
-            m_currentSlide = 0;
+            m_currentSlide = CalculateStartSlideIndex();
             ShowSlide(m_currentSlide);
             ReportProgress();
         }
@@ -43,6 +43,38 @@ namespace UI.Lessons {
             }
         }
 
+        private int CalculateStartSlideIndex() {
+            if (slidePanels == null || slidePanels.Length == 0) {
+                return 0;
+            }
+
+            if (string.IsNullOrWhiteSpace(lessonId) || ProgressService.Instance == null) {
+                return 0;
+            }
+
+            var entry = ProgressService.Instance.GetLessonProgress(lessonId, "", slidePanels.Length);
+            if (entry == null) {
+                return 0;
+            }
+
+            var lastViewed = entry.maxSlideReached;
+            var totalSlidesNow = slidePanels.Length;
+
+            var completedPreviously =
+                lastViewed >= totalSlidesNow - 1 &&
+                entry.totalSlides == totalSlidesNow;
+
+            if (completedPreviously) {
+                return 0;
+            }
+
+            if (lastViewed < 0) {
+                return 0;
+            }
+
+            return Mathf.Clamp(lastViewed, 0, totalSlidesNow - 1);
+        }
+
         private void ShowSlide(int index) {
             if (slidePanels == null) {
                 return;
@@ -56,7 +88,7 @@ namespace UI.Lessons {
         }
 
         private void ReportProgress() {
-            if (string.IsNullOrWhiteSpace(lessonId) || slidePanels == null) {
+            if (string.IsNullOrWhiteSpace(lessonId) || slidePanels == null || ProgressService.Instance == null) {
                 return;
             }
 
@@ -65,6 +97,18 @@ namespace UI.Lessons {
                 m_currentSlide,
                 slidePanels.Length
             );
+        }
+
+        public int GetCurrentSlide() {
+            return m_currentSlide;
+        }
+
+        public int GetTotalSlides() {
+            return slidePanels?.Length ?? 0;
+        }
+        
+        public string GetLessonId() {
+            return lessonId;
         }
     }
 }

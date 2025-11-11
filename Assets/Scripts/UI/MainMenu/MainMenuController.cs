@@ -5,6 +5,7 @@
 //  */
 
 using Lessons;
+using Progress;
 using UnityEngine;
 
 namespace UI.MainMenu {
@@ -21,6 +22,8 @@ namespace UI.MainMenu {
 
             foreach (var lesson in catalog.Lessons) {
                 var card = Instantiate(lessonCardPrefab, lessonsParent);
+                ProgressService.Instance.GetLessonProgress(lesson.id, lesson.displayName); // Creates progress entry if not exists
+                ProgressService.Instance.Save();
                 card.Setup(lesson);
             }
         }

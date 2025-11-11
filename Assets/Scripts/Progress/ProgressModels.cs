@@ -11,6 +11,7 @@ namespace Progress {
     [Serializable]
     public class LessonProgressEntry {
         public string lessonId;
+        public string lessonName;
         public int maxSlideReached;
         public int totalSlides;
     }

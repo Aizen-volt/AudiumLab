@@ -798,6 +798,7 @@ GameObject:
   - component: {fileID: 787377639}
   - component: {fileID: 787377638}
   - component: {fileID: 787377637}
+  - component: {fileID: 787377640}
   m_Layer: 5
   m_Name: ExitButton
   m_TagString: Untagged
@@ -847,7 +848,7 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_HighlightedColor: {r: 0.7924528, g: 0.7924528, b: 0.7924528, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
@@ -868,7 +869,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 787377638}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 787377640}
+        m_TargetAssemblyTypeName: UI.Common.ExitGame, Assembly-CSharp
+        m_MethodName: Exit
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 1
 --- !u!114 &787377638
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -907,6 +920,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 787377635}
   m_CullTransparentMesh: 1
+--- !u!114 &787377640
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 787377635}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49dd24bb42ee423f9d0cb41018a15c63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &826546561
 GameObject:
   m_ObjectHideFlags: 0
@@ -968,7 +993,7 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_HighlightedColor: {r: 0.7921569, g: 0.7921569, b: 0.7921569, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
@@ -1381,6 +1406,7 @@ GameObject:
   - component: {fileID: 1740823191}
   - component: {fileID: 1740823193}
   - component: {fileID: 1740823192}
+  - component: {fileID: 1740823194}
   m_Layer: 5
   m_Name: Version
   m_TagString: Untagged
@@ -1427,7 +1453,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Wersja: InDev'
+  m_text: 'Wersja: 0.1.0'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a2a447846c2fb964ab0361a6b512d3dc, type: 2}
   m_sharedMaterial: {fileID: 5014204230274260728, guid: a2a447846c2fb964ab0361a6b512d3dc, type: 2}
@@ -1506,6 +1532,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1740823190}
   m_CullTransparentMesh: 1
+--- !u!114 &1740823194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1740823190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d662a94316724a1188ea9313c884c06d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetText: {fileID: 1740823192}
+  prefix: 'Wersja: '
+  includeBuildType: 0
+  buildType: InDev
 --- !u!1 &1824617513
 GameObject:
   m_ObjectHideFlags: 0
@@ -1837,7 +1879,7 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_HighlightedColor: {r: 0.7921569, g: 0.7921569, b: 0.7921569, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}

@@ -41,7 +41,7 @@ namespace Progress {
             }
         }
 
-        private void Save() {
+        public void Save() {
             try {
                 var json = JsonUtility.ToJson(m_data, true);
                 File.WriteAllText(m_savePath, json);
@@ -50,11 +50,12 @@ namespace Progress {
             }
         }
 
-        public LessonProgressEntry GetLessonProgress(string lessonId, int totalSlidesFallback = 1) {
+        public LessonProgressEntry GetLessonProgress(string lessonId, string lessonName = "", int totalSlidesFallback = 1) {
             var entry = m_data.lessons.Find(l => l.lessonId == lessonId);
             if (entry == null) {
                 entry = new LessonProgressEntry {
                     lessonId = lessonId,
+                    lessonName = lessonName,
                     maxSlideReached = -1,
                     totalSlides = totalSlidesFallback
                 };
@@ -66,7 +67,7 @@ namespace Progress {
         }
 
         public void UpdateLessonProgress(string lessonId, int slideIndex, int totalSlides) {
-            var entry = GetLessonProgress(lessonId, totalSlides);
+            var entry = GetLessonProgress(lessonId, "", totalSlides);
 
             entry.totalSlides = totalSlides;
             if (slideIndex > entry.maxSlideReached) {
@@ -76,7 +77,7 @@ namespace Progress {
         }
 
         public float GetLessonCompletionPercent(string lessonId, int totalSlidesFallback = 1) {
-            var entry = GetLessonProgress(lessonId, totalSlidesFallback);
+            var entry = GetLessonProgress(lessonId, "", totalSlidesFallback);
             if (entry.totalSlides <= 0) {
                 return 0f;
             }
