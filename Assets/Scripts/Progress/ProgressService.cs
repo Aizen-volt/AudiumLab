@@ -21,6 +21,7 @@ namespace Progress {
             }
 
             Instance = this;
+            Debug.Log("hiiiiiiiiii");
             DontDestroyOnLoad(gameObject);
 
             m_savePath = Path.Combine(Application.persistentDataPath, "progress.json");

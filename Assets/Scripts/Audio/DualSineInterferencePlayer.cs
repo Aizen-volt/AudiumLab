@@ -27,7 +27,7 @@ namespace Audio {
             m_source = GetComponent<AudioSource>();
             m_source.playOnAwake = false;
             m_source.loop = true;
-            m_source.volume = 1.0f;
+            m_source.volume = VolumeManager.Instance.Volume;
 
             m_sampleRate = AudioSettings.outputSampleRate;
         }
