@@ -1413,7 +1413,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 16.748, y: -26.89488}
+  m_AnchoredPosition: {x: 16.75, y: -68.065}
   m_SizeDelta: {x: 1229.2, y: 658.8697}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &5050869144521108230
@@ -2069,16 +2069,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "<b>AudiumLab</b> to projekt stworzony na zaliczenie przedmiotu <i>Projektowanie
-    gier komputerowych</i>. Celem by\u0142o rozszerzenie cz\u0119\u015Bci wyk\u0142adowej
+  m_text: "<b>AudiumLab</b> to projekt stworzony w ramach przedmiotu <i>Projektowanie
+    gier komputerowych</i>. Jego celem jest rozszerzenie cz\u0119\u015Bci wyk\u0142adowej
     przedmiotu <i>Multimedia i interfejsy</i>.\n\nAutorami aplikacji s\u0105:\n-
-    Mateusz Kaszubowski\n- Tomasz Kr\u0119pa\n\nAplikacja powsta\u0142a pod czujnym
-    okiem prof. dr in\u017C. Mariusza Szwocha\n\nMateria\u0142y zamieszczone w aplikacji
-    a nie wytworzone przez autor\xF3w zosta\u0142y wykorzystane na podstawie licencji
+    Mateusz Kaszubowski\n- Tomasz Kr\u0119pa\n\nAplikacja powsta\u0142a pod opiek\u0105
+    dr. in\u017C. Mariusza Szwocha, prof. PG.\n\nMateria\u0142y zamieszczone w aplikacji,
+    a nie wytworzone przez autor\xF3w, zosta\u0142y wykorzystane na podstawie licencji
     Creative Commons."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: a2a447846c2fb964ab0361a6b512d3dc, type: 2}
+  m_sharedMaterial: {fileID: 5014204230274260728, guid: a2a447846c2fb964ab0361a6b512d3dc, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
