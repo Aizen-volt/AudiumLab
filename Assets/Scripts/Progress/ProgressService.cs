@@ -13,7 +13,7 @@ namespace Progress {
 
         private ProgressData m_data = new();
         private string m_savePath = string.Empty;
-
+        
         private void Awake() {
             if (Instance != null && Instance != this) {
                 Destroy(gameObject);

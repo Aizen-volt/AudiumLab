@@ -5,11 +5,12 @@
 //  */
 
 using UnityEngine;
-using UnityEngine.Rendering;
 
 namespace Audio {
     [RequireComponent(typeof(AudioSource))]
-    public class SineWavePlayer : MonoBehaviour {
+    public class WaveformTonePlayer : MonoBehaviour {
+        [SerializeField] private WaveformType waveform = WaveformType.Sine;
+
         [Range(20f, 20000f)]
         [SerializeField] private float frequency = 440f;
 
@@ -25,9 +26,19 @@ namespace Audio {
             m_source = GetComponent<AudioSource>();
             m_source.playOnAwake = false;
             m_source.loop = true;
-            m_source.volume = VolumeManager.Instance.Volume;
+
+            if (VolumeManager.Instance != null) {
+                m_source.volume = VolumeManager.Instance.Volume;
+            }
 
             m_sampleRate = AudioSettings.outputSampleRate;
+        }
+
+        private void OnEnable() {
+            m_isPlaying = false;
+            if (m_source.isPlaying) {
+                m_source.Stop();
+            }
         }
 
         private void OnAudioFilterRead(float[] data, int channels) {
@@ -38,13 +49,18 @@ namespace Audio {
                 return;
             }
 
+            if (m_sampleRate <= 0) {
+                m_sampleRate = AudioSettings.outputSampleRate;
+            }
+
             var increment = 2.0 * Mathf.PI * frequency / m_sampleRate;
 
             for (var i = 0; i < data.Length; i += channels) {
-                var sample = (float)(amplitude * Mathf.Sin((float)m_phase));
+                var rawSample = GenerateSample(m_phase, waveform);
+                var sample = amplitude * rawSample;
 
                 for (var c = 0; c < channels; c++) {
-                    data[i + c] = sample;
+                    data[i + c] = (float)sample;
                 }
 
                 m_phase += increment;
@@ -54,12 +70,44 @@ namespace Audio {
             }
         }
 
+        private static float GenerateSample(double phase, WaveformType type) {
+            var p = (float)phase;
+
+            switch (type) {
+                case WaveformType.Sine:
+                    return Mathf.Sin(p);
+
+                case WaveformType.Square:
+                    return Mathf.Sign(Mathf.Sin(p));
+
+                case WaveformType.Saw: {
+                    var t = (float)(phase / (2.0 * Mathf.PI));
+                    t -= Mathf.Floor(t);
+                    return 2f * t - 1f;
+                }
+
+                case WaveformType.Triangle: {
+                    var t = (float)(phase / (2.0 * Mathf.PI));
+                    t -= Mathf.Floor(t);
+                    var tri = 2f * Mathf.Abs(2f * t - 1f) - 1f;
+                    return tri;
+                }
+
+                default:
+                    return 0f;
+            }
+        }
+
         public void SetFrequency(float newFreq) {
             frequency = Mathf.Clamp(newFreq, 20f, 20000f);
         }
 
         public void SetAmplitude(float newAmp) {
             amplitude = Mathf.Clamp01(newAmp);
+        }
+
+        public void SetWaveform(WaveformType type) {
+            waveform = type;
         }
 
         public void PlayTone() {

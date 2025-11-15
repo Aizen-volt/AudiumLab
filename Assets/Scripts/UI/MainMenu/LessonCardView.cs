@@ -7,6 +7,7 @@
 using Lessons;
 using Progress;
 using TMPro;
+using UI.Lessons;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -65,6 +66,7 @@ namespace UI.MainMenu {
 
         private void OpenLesson() {
             if (!string.IsNullOrEmpty(m_definition.sceneName)) {
+                LessonRuntime.ClearSavedSlideOnSceneChange();
                 SceneManager.LoadScene(m_definition.sceneName);
             }
         }

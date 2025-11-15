@@ -13,7 +13,7 @@ namespace UI.Lessons {
         [SerializeField] private GameObject[] slidePanels;
 
         private int m_currentSlide;
-
+        private static int? s_previousSlide; // Going back from settings retriggers progress check, this will avoid change
         private void Start() {
             m_currentSlide = CalculateStartSlideIndex();
             ShowSlide(m_currentSlide);
@@ -44,6 +44,17 @@ namespace UI.Lessons {
         }
 
         private int CalculateStartSlideIndex() {
+            if (s_previousSlide.HasValue) {
+                var totalSlides = slidePanels?.Length ?? 0;
+                if (totalSlides <= 0) {
+                    return 0;
+                }
+
+                var restored = Mathf.Clamp(s_previousSlide.Value, 0, totalSlides - 1);
+                s_previousSlide = null;
+                return restored;
+            }
+            
             if (slidePanels == null || slidePanels.Length == 0) {
                 return 0;
             }
@@ -109,6 +120,14 @@ namespace UI.Lessons {
         
         public string GetLessonId() {
             return lessonId;
+        }
+        
+        public void SaveCurrentSlideOnSceneChange() {
+            s_previousSlide = m_currentSlide;
+        }
+        
+        public static void ClearSavedSlideOnSceneChange() {
+            s_previousSlide = null;
         }
     }
 }

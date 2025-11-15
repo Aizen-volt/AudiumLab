@@ -6,8 +6,6 @@
 
 
 using UnityEngine;
-using UnityEngine.Audio;
-using UnityEngine.Rendering;
 
 namespace Audio {
     public class VolumeManager : MonoBehaviour {
