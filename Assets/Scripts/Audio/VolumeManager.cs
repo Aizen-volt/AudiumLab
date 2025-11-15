@@ -4,14 +4,24 @@
 //  * Created on: 13/11/2025
 //  */
 
-
 using UnityEngine;
 
 namespace Audio {
     public class VolumeManager : MonoBehaviour {
         public static VolumeManager Instance { get; private set; }
-        public float Volume { get; set; } = 1.0f;
 
+        private const string k_volumePrefsKey = "AudiumLab_MasterVolume";
+
+        private float m_volume = 1.0f;
+        public float Volume {
+            get => m_volume;
+            set {
+                m_volume = value;
+
+                PlayerPrefs.SetFloat(k_volumePrefsKey, m_volume);
+                PlayerPrefs.Save();
+            }
+        }
 
         private void Awake() {
             // Singleton pattern
@@ -21,9 +31,15 @@ namespace Audio {
             }
 
             Instance = this;
-            Debug.Log("hiiiiiiiiii");
             DontDestroyOnLoad(gameObject);
-        }
 
+            if (PlayerPrefs.HasKey(k_volumePrefsKey)) {
+                m_volume = Mathf.Clamp01(PlayerPrefs.GetFloat(k_volumePrefsKey, 1.0f));
+            } else {
+                m_volume = 1.0f;
+                PlayerPrefs.SetFloat(k_volumePrefsKey, m_volume);
+                PlayerPrefs.Save();
+            }
+        }
     }
 }
