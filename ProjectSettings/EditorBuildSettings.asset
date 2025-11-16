@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Settings.unity
     guid: d45566295e7a5174eb60870a991afb7b
+  - enabled: 1
+    path: Assets/Scenes/Lesson_1_SpectrogramHarmonicsAndTimbre.unity
+    guid: 2e5a52c24078a4142b162a26cc32c441
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

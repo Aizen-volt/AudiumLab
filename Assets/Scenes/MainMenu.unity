@@ -1759,7 +1759,7 @@ MonoBehaviour:
     displayName: Spektrogram, alikwoty i barwa
     description: 
     icon: {fileID: 21300000, guid: 6b085bedfcf460049bf0376cc9c23456, type: 3}
-    sceneName: Lesson_1
+    sceneName: Lesson_1_SpectrogramHarmonicsAndTimbre
     totalSlides: 3
   - id: 2
     displayName: "Interwa\u0142y"
@@ -2092,6 +2092,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mainMenuSceneName: MainMenu
+  lessonRuntime: {fileID: 0}
 --- !u!1 &2072788936
 GameObject:
   m_ObjectHideFlags: 0

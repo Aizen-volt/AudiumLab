@@ -4,6 +4,7 @@
 //  * Created on: 11/11/2025
 //  */
 
+using System.Collections;
 using UnityEngine;
 
 namespace Audio {
@@ -21,6 +22,8 @@ namespace Audio {
         private int m_sampleRate;
         private double m_phase;
         private bool m_isPlaying;
+        
+        private Coroutine m_stopCoroutine;
 
         private void Awake() {
             m_source = GetComponent<AudioSource>();
@@ -130,6 +133,25 @@ namespace Audio {
             if (m_source.isPlaying) {
                 m_source.Stop();
             }
+        }
+        
+        public void PlayTone(float duration) {
+            if (duration <= 0f) return;
+
+            if (m_stopCoroutine != null) {
+                StopCoroutine(m_stopCoroutine);
+                m_stopCoroutine = null;
+            }
+
+            PlayTone();
+
+            m_stopCoroutine = StartCoroutine(StopAfter(duration));
+        }
+
+        private IEnumerator StopAfter(float duration) {
+            yield return new WaitForSeconds(duration);
+            StopTone();
+            m_stopCoroutine = null;
         }
     }
 }
