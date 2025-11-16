@@ -1771,7 +1771,7 @@ MonoBehaviour:
     displayName: Temperacja
     description: 
     icon: {fileID: 21300000, guid: 1c9e161b49da70747ba654ebcc645759, type: 3}
-    sceneName: Lesson_3
+    sceneName: Lesson_3_Temperament
     totalSlides: 3
   - id: 4
     displayName: "Percepcja s\u0142uchu"
