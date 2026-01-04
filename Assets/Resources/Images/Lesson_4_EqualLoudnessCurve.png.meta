@@ -1,0 +1,3887 @@
+fileFormatVersion: 2
+guid: b1f214a8690904e42b59a0c0058517e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5979886363184293833
+    second: Lesson_4_EqualLoudnessCurve_0
+  - first:
+      213: 4794234390574269482
+    second: Lesson_4_EqualLoudnessCurve_1
+  - first:
+      213: -240630880936387700
+    second: Lesson_4_EqualLoudnessCurve_2
+  - first:
+      213: -6390939201966068844
+    second: Lesson_4_EqualLoudnessCurve_3
+  - first:
+      213: 1645642697324666104
+    second: Lesson_4_EqualLoudnessCurve_4
+  - first:
+      213: -8151617428818986185
+    second: Lesson_4_EqualLoudnessCurve_5
+  - first:
+      213: 4783089477443790895
+    second: Lesson_4_EqualLoudnessCurve_6
+  - first:
+      213: 5458599352412215595
+    second: Lesson_4_EqualLoudnessCurve_7
+  - first:
+      213: -5067096164022409436
+    second: Lesson_4_EqualLoudnessCurve_8
+  - first:
+      213: -3714416547747640011
+    second: Lesson_4_EqualLoudnessCurve_9
+  - first:
+      213: 5870192794716531595
+    second: Lesson_4_EqualLoudnessCurve_10
+  - first:
+      213: 450714141438063024
+    second: Lesson_4_EqualLoudnessCurve_11
+  - first:
+      213: 621041138712045085
+    second: Lesson_4_EqualLoudnessCurve_12
+  - first:
+      213: 2423625537862404835
+    second: Lesson_4_EqualLoudnessCurve_13
+  - first:
+      213: -3901324021872710754
+    second: Lesson_4_EqualLoudnessCurve_14
+  - first:
+      213: -5308135681518600792
+    second: Lesson_4_EqualLoudnessCurve_15
+  - first:
+      213: 2913856237613837262
+    second: Lesson_4_EqualLoudnessCurve_16
+  - first:
+      213: 1565102240953863695
+    second: Lesson_4_EqualLoudnessCurve_17
+  - first:
+      213: -2439714015688831993
+    second: Lesson_4_EqualLoudnessCurve_18
+  - first:
+      213: 7406291063340388518
+    second: Lesson_4_EqualLoudnessCurve_19
+  - first:
+      213: 7829760630621083905
+    second: Lesson_4_EqualLoudnessCurve_20
+  - first:
+      213: -4214099539624785273
+    second: Lesson_4_EqualLoudnessCurve_21
+  - first:
+      213: 2837960181667897369
+    second: Lesson_4_EqualLoudnessCurve_22
+  - first:
+      213: -5435048726090976684
+    second: Lesson_4_EqualLoudnessCurve_23
+  - first:
+      213: 382859340579331109
+    second: Lesson_4_EqualLoudnessCurve_24
+  - first:
+      213: 1344477540359154603
+    second: Lesson_4_EqualLoudnessCurve_25
+  - first:
+      213: 7672170598670911479
+    second: Lesson_4_EqualLoudnessCurve_26
+  - first:
+      213: 4994242945500863968
+    second: Lesson_4_EqualLoudnessCurve_27
+  - first:
+      213: -5209000331086671061
+    second: Lesson_4_EqualLoudnessCurve_28
+  - first:
+      213: 5614632403249841269
+    second: Lesson_4_EqualLoudnessCurve_29
+  - first:
+      213: -2397405487011582104
+    second: Lesson_4_EqualLoudnessCurve_30
+  - first:
+      213: 6444174432494962116
+    second: Lesson_4_EqualLoudnessCurve_31
+  - first:
+      213: -1592170565612689475
+    second: Lesson_4_EqualLoudnessCurve_32
+  - first:
+      213: 3727010884225153827
+    second: Lesson_4_EqualLoudnessCurve_33
+  - first:
+      213: 7110160945796244856
+    second: Lesson_4_EqualLoudnessCurve_34
+  - first:
+      213: 2440231106621346910
+    second: Lesson_4_EqualLoudnessCurve_35
+  - first:
+      213: 245505031244360610
+    second: Lesson_4_EqualLoudnessCurve_36
+  - first:
+      213: 2929716311701119996
+    second: Lesson_4_EqualLoudnessCurve_37
+  - first:
+      213: 461616148458301701
+    second: Lesson_4_EqualLoudnessCurve_38
+  - first:
+      213: 8072204094128179037
+    second: Lesson_4_EqualLoudnessCurve_39
+  - first:
+      213: 3489618102346397395
+    second: Lesson_4_EqualLoudnessCurve_40
+  - first:
+      213: -9154518692188626345
+    second: Lesson_4_EqualLoudnessCurve_41
+  - first:
+      213: -7765928026541042369
+    second: Lesson_4_EqualLoudnessCurve_42
+  - first:
+      213: 578621017522139512
+    second: Lesson_4_EqualLoudnessCurve_43
+  - first:
+      213: -8059925856283927224
+    second: Lesson_4_EqualLoudnessCurve_44
+  - first:
+      213: 4125198032860962559
+    second: Lesson_4_EqualLoudnessCurve_45
+  - first:
+      213: 7565394057610094637
+    second: Lesson_4_EqualLoudnessCurve_46
+  - first:
+      213: -8638691100232232230
+    second: Lesson_4_EqualLoudnessCurve_47
+  - first:
+      213: -3078287164984180681
+    second: Lesson_4_EqualLoudnessCurve_48
+  - first:
+      213: 1304922523045239440
+    second: Lesson_4_EqualLoudnessCurve_49
+  - first:
+      213: 7471379091911174127
+    second: Lesson_4_EqualLoudnessCurve_50
+  - first:
+      213: 5044867091458454268
+    second: Lesson_4_EqualLoudnessCurve_51
+  - first:
+      213: 9043832230804877543
+    second: Lesson_4_EqualLoudnessCurve_52
+  - first:
+      213: -3450875247290359296
+    second: Lesson_4_EqualLoudnessCurve_53
+  - first:
+      213: -5777623484955116679
+    second: Lesson_4_EqualLoudnessCurve_54
+  - first:
+      213: 6789634024683261417
+    second: Lesson_4_EqualLoudnessCurve_55
+  - first:
+      213: -5446125882978431385
+    second: Lesson_4_EqualLoudnessCurve_56
+  - first:
+      213: -7016698990574169971
+    second: Lesson_4_EqualLoudnessCurve_57
+  - first:
+      213: 4843471535059444763
+    second: Lesson_4_EqualLoudnessCurve_58
+  - first:
+      213: 8980794634880276688
+    second: Lesson_4_EqualLoudnessCurve_59
+  - first:
+      213: -4477980754820101320
+    second: Lesson_4_EqualLoudnessCurve_60
+  - first:
+      213: -6532726339526193495
+    second: Lesson_4_EqualLoudnessCurve_61
+  - first:
+      213: -8357312547172815876
+    second: Lesson_4_EqualLoudnessCurve_62
+  - first:
+      213: 8607178859333826958
+    second: Lesson_4_EqualLoudnessCurve_63
+  - first:
+      213: -2987281107406238468
+    second: Lesson_4_EqualLoudnessCurve_64
+  - first:
+      213: 3811728634781808920
+    second: Lesson_4_EqualLoudnessCurve_65
+  - first:
+      213: 1203865653476947758
+    second: Lesson_4_EqualLoudnessCurve_66
+  - first:
+      213: -4478528583334090415
+    second: Lesson_4_EqualLoudnessCurve_67
+  - first:
+      213: -4740326223091244852
+    second: Lesson_4_EqualLoudnessCurve_68
+  - first:
+      213: 6847582013210105944
+    second: Lesson_4_EqualLoudnessCurve_69
+  - first:
+      213: -1727378490316594088
+    second: Lesson_4_EqualLoudnessCurve_70
+  - first:
+      213: 5509753066332597326
+    second: Lesson_4_EqualLoudnessCurve_71
+  - first:
+      213: -7206831155174115041
+    second: Lesson_4_EqualLoudnessCurve_72
+  - first:
+      213: -338585435511632329
+    second: Lesson_4_EqualLoudnessCurve_73
+  - first:
+      213: 4440490979404988884
+    second: Lesson_4_EqualLoudnessCurve_74
+  - first:
+      213: -843136462917009850
+    second: Lesson_4_EqualLoudnessCurve_75
+  - first:
+      213: 405336319995214669
+    second: Lesson_4_EqualLoudnessCurve_76
+  - first:
+      213: -4484889932992362169
+    second: Lesson_4_EqualLoudnessCurve_77
+  - first:
+      213: 4169319975481054717
+    second: Lesson_4_EqualLoudnessCurve_78
+  - first:
+      213: -21950380176419395
+    second: Lesson_4_EqualLoudnessCurve_79
+  - first:
+      213: -6717892724564825114
+    second: Lesson_4_EqualLoudnessCurve_80
+  - first:
+      213: -1578753431187271559
+    second: Lesson_4_EqualLoudnessCurve_81
+  - first:
+      213: 4582105552565228468
+    second: Lesson_4_EqualLoudnessCurve_82
+  - first:
+      213: 1845660057585666427
+    second: Lesson_4_EqualLoudnessCurve_83
+  - first:
+      213: -3636243618546861361
+    second: Lesson_4_EqualLoudnessCurve_84
+  - first:
+      213: -2258468764781307416
+    second: Lesson_4_EqualLoudnessCurve_85
+  - first:
+      213: -58285340180534059
+    second: Lesson_4_EqualLoudnessCurve_86
+  - first:
+      213: 4599166826574860374
+    second: Lesson_4_EqualLoudnessCurve_87
+  - first:
+      213: -2389958629837616895
+    second: Lesson_4_EqualLoudnessCurve_88
+  - first:
+      213: -8052564380292231945
+    second: Lesson_4_EqualLoudnessCurve_89
+  - first:
+      213: -898387561511931532
+    second: Lesson_4_EqualLoudnessCurve_90
+  - first:
+      213: -8511250686921933296
+    second: Lesson_4_EqualLoudnessCurve_91
+  - first:
+      213: 3687430169788210955
+    second: Lesson_4_EqualLoudnessCurve_92
+  - first:
+      213: -8793291847946117992
+    second: Lesson_4_EqualLoudnessCurve_93
+  - first:
+      213: 6153721629821705150
+    second: Lesson_4_EqualLoudnessCurve_94
+  - first:
+      213: -1175138961682155035
+    second: Lesson_4_EqualLoudnessCurve_95
+  - first:
+      213: 6196104107338121193
+    second: Lesson_4_EqualLoudnessCurve_96
+  - first:
+      213: 4726429867879705039
+    second: Lesson_4_EqualLoudnessCurve_97
+  - first:
+      213: 1156827003121212186
+    second: Lesson_4_EqualLoudnessCurve_98
+  - first:
+      213: -1647670291590219052
+    second: Lesson_4_EqualLoudnessCurve_99
+  - first:
+      213: 2979542447609882772
+    second: Lesson_4_EqualLoudnessCurve_100
+  - first:
+      213: 4580407105279407728
+    second: Lesson_4_EqualLoudnessCurve_101
+  - first:
+      213: -1385870559028258224
+    second: Lesson_4_EqualLoudnessCurve_102
+  - first:
+      213: -6579742745663769112
+    second: Lesson_4_EqualLoudnessCurve_103
+  - first:
+      213: 4309852519317416849
+    second: Lesson_4_EqualLoudnessCurve_104
+  - first:
+      213: 1585810851884298500
+    second: Lesson_4_EqualLoudnessCurve_105
+  - first:
+      213: 2951187646963273181
+    second: Lesson_4_EqualLoudnessCurve_106
+  - first:
+      213: 8601362227795971634
+    second: Lesson_4_EqualLoudnessCurve_107
+  - first:
+      213: -696878301860086981
+    second: Lesson_4_EqualLoudnessCurve_108
+  - first:
+      213: 7872146389234440481
+    second: Lesson_4_EqualLoudnessCurve_109
+  - first:
+      213: -1789970858725168871
+    second: Lesson_4_EqualLoudnessCurve_110
+  - first:
+      213: -5269670712453693789
+    second: Lesson_4_EqualLoudnessCurve_111
+  - first:
+      213: 7522713537364509692
+    second: Lesson_4_EqualLoudnessCurve_112
+  - first:
+      213: -5109173545004468076
+    second: Lesson_4_EqualLoudnessCurve_113
+  - first:
+      213: -8195655378058181023
+    second: Lesson_4_EqualLoudnessCurve_114
+  - first:
+      213: -8602526631445040911
+    second: Lesson_4_EqualLoudnessCurve_115
+  - first:
+      213: 1424764414686250456
+    second: Lesson_4_EqualLoudnessCurve_116
+  - first:
+      213: 6629800305884974598
+    second: Lesson_4_EqualLoudnessCurve_117
+  - first:
+      213: 6617023533335977268
+    second: Lesson_4_EqualLoudnessCurve_118
+  - first:
+      213: -1784378610958948277
+    second: Lesson_4_EqualLoudnessCurve_119
+  - first:
+      213: 6334101368683210034
+    second: Lesson_4_EqualLoudnessCurve_120
+  - first:
+      213: 6796392587811442926
+    second: Lesson_4_EqualLoudnessCurve_121
+  - first:
+      213: 5360358632374810537
+    second: Lesson_4_EqualLoudnessCurve_122
+  - first:
+      213: 913473698855613096
+    second: Lesson_4_EqualLoudnessCurve_123
+  - first:
+      213: -7165003590138831409
+    second: Lesson_4_EqualLoudnessCurve_124
+  - first:
+      213: 1767760238767094298
+    second: Lesson_4_EqualLoudnessCurve_125
+  - first:
+      213: 2926225293247515327
+    second: Lesson_4_EqualLoudnessCurve_126
+  - first:
+      213: 6980929807792626739
+    second: Lesson_4_EqualLoudnessCurve_127
+  - first:
+      213: -5032040859733738056
+    second: Lesson_4_EqualLoudnessCurve_128
+  - first:
+      213: -5289274368924128322
+    second: Lesson_4_EqualLoudnessCurve_129
+  - first:
+      213: -1769107138130288488
+    second: Lesson_4_EqualLoudnessCurve_130
+  - first:
+      213: 7991435627006749811
+    second: Lesson_4_EqualLoudnessCurve_131
+  - first:
+      213: -657771306681459313
+    second: Lesson_4_EqualLoudnessCurve_132
+  - first:
+      213: -6544703562216911585
+    second: Lesson_4_EqualLoudnessCurve_133
+  - first:
+      213: 5811144532630294903
+    second: Lesson_4_EqualLoudnessCurve_134
+  - first:
+      213: -5749598864286316084
+    second: Lesson_4_EqualLoudnessCurve_135
+  - first:
+      213: -2157857942463862685
+    second: Lesson_4_EqualLoudnessCurve_136
+  - first:
+      213: 4453675208564398254
+    second: Lesson_4_EqualLoudnessCurve_137
+  - first:
+      213: 1690766999579528121
+    second: Lesson_4_EqualLoudnessCurve_138
+  - first:
+      213: -2655892063548914196
+    second: Lesson_4_EqualLoudnessCurve_139
+  - first:
+      213: -282305316812675057
+    second: Lesson_4_EqualLoudnessCurve_140
+  - first:
+      213: 7900070926699720747
+    second: Lesson_4_EqualLoudnessCurve_141
+  - first:
+      213: -5985325910308806924
+    second: Lesson_4_EqualLoudnessCurve_142
+  - first:
+      213: -2938975965539527474
+    second: Lesson_4_EqualLoudnessCurve_143
+  - first:
+      213: 7874040194814405071
+    second: Lesson_4_EqualLoudnessCurve_144
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 593
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7389235190d230da0800000000000000
+      internalID: -5979886363184293833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 592
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24042cf6ca888240800000000000000
+      internalID: 4794234390574269482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 592
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b1ccb1d7b19acf0800000000000000
+      internalID: -240630880936387700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 110
+        width: 569
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ba1bd08a2de47a0800000000000000
+      internalID: -6390939201966068844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 559
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc9041705f76d610800000000000000
+      internalID: 1645642697324666104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 559
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b7c5a3323afde80800000000000000
+      internalID: -8151617428818986185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 558
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2822ffa982f06240800000000000000
+      internalID: 4783089477443790895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 524
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2915bba037d0cb40800000000000000
+      internalID: 5458599352412215595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 524
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42723bca2ee0ea9b0800000000000000
+      internalID: -5067096164022409436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 523
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d4ba364ddb37cc0800000000000000
+      internalID: -3714416547747640011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 491
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8be224ce3d177150800000000000000
+      internalID: 5870192794716531595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 480
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b139a7af12414600800000000000000
+      internalID: 450714141438063024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 492
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16e5df00a16e9800800000000000000
+      internalID: 621041138712045085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 491
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea8ad4f59272a120800000000000000
+      internalID: 2423625537862404835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 491
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b2492e876bbd9c0800000000000000
+      internalID: -3901324021872710754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 466
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adf18ba8b6b556b0800000000000000
+      internalID: -5308135681518600792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 452
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb67815fc8107820800000000000000
+      internalID: 2913856237613837262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 453
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e0935223c58b510800000000000000
+      internalID: 1565102240953863695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 453
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c43556705642ed0800000000000000
+      internalID: -2439714015688831993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 433
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0dd8d5b7e68c660800000000000000
+      internalID: 7406291063340388518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 420
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10912884fc5e8ac60800000000000000
+      internalID: 7829760630621083905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 418
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a0784cbc28485c0800000000000000
+      internalID: -4214099539624785273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 418
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910a403cfb5726720800000000000000
+      internalID: 2837960181667897369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 413
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4527860daf3d294b0800000000000000
+      internalID: -5435048726090976684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 403
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cdb22ba80305500800000000000000
+      internalID: 382859340579331109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 391
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab2999133b88a210800000000000000
+      internalID: 1344477540359154603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_26
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 383
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7c9f5b286097a60800000000000000
+      internalID: 7672170598670911479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_27
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 382
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed54909f7d1f4540800000000000000
+      internalID: 4994242945500863968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 357
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23dfae1cc9e5b7b0800000000000000
+      internalID: -5209000331086671061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_29
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 380
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574ca145c6e2bed40800000000000000
+      internalID: 5614632403249841269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 339
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f2a1c5964babed0800000000000000
+      internalID: -2397405487011582104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 347
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5448fe08e4e6950800000000000000
+      internalID: 6444174432494962116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 347
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7a2d66e4977e9e0800000000000000
+      internalID: -1592170565612689475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 332
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b314417a009b330800000000000000
+      internalID: 3727010884225153827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_34
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 320
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8756a0e75bd5ca260800000000000000
+      internalID: 7110160945796244856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_35
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 312
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54160833417dd120800000000000000
+      internalID: 2440231106621346910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_36
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 312
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab24e17685386300800000000000000
+      internalID: 245505031244360610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 278
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3ec93967178a820800000000000000
+      internalID: 2929716311701119996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_38
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 285
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509e077f07df76600800000000000000
+      internalID: 461616148458301701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_39
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 279
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57c6f0fada360070800000000000000
+      internalID: 8072204094128179037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 278
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d63120ec2d9d6030800000000000000
+      internalID: 3489618102346397395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_41
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 264
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7526c6e80cd94f080800000000000000
+      internalID: -9154518692188626345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_42
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 242
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3555c20b91e93490800000000000000
+      internalID: -7765928026541042369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_43
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 242
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8717bf0ffbca70800800000000000000
+      internalID: 578621017522139512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 245
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dd5341324652090800000000000000
+      internalID: -8059925856283927224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_45
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 234
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe51d031c5af3930800000000000000
+      internalID: 4125198032860962559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_46
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 222
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2863bdefcdadf860800000000000000
+      internalID: 7565394057610094637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_47
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 209
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2545ec6343d1880800000000000000
+      internalID: -8638691100232232230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_48
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 206
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7304976022ab745d0800000000000000
+      internalID: -3078287164984180681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_49
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 205
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a9485fe140c1210800000000000000
+      internalID: 1304922523045239440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_50
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 195
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe765a3f2bbafa760800000000000000
+      internalID: 7471379091911174127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_51
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 174
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2707d04e7f20640800000000000000
+      internalID: 5044867091458454268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_52
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 173
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e07a556f75228d70800000000000000
+      internalID: 9043832230804877543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_53
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 138
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002e1110f370c10d0800000000000000
+      internalID: -3450875247290359296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_54
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 105
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bbb453d02c1dfa0800000000000000
+      internalID: -5777623484955116679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_55
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 104
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edc6242c20a93e50800000000000000
+      internalID: 6789634024683261417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_56
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 74
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e820f3d597b64b0800000000000000
+      internalID: -5446125882978431385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_57
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 73
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d801cf2b17daf9e90800000000000000
+      internalID: -7016698990574169971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_58
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 74
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b142fe603b7773340800000000000000
+      internalID: 4843471535059444763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_59
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 73
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8d5cc532132ac70800000000000000
+      internalID: 8980794634880276688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_60
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 73
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b89e59a340bd1c0800000000000000
+      internalID: -4477980754820101320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_61
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 74
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae04bd81081755a0800000000000000
+      internalID: -6532726339526193495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_62
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 73
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb69dc648cd40c80800000000000000
+      internalID: -8357312547172815876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_63
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 73
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8938dcd197d27770800000000000000
+      internalID: 8607178859333826958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_64
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 73
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcc0dcf8ab0b86d0800000000000000
+      internalID: -2987281107406238468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_65
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 74
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819ba587ffaf5e430800000000000000
+      internalID: 3811728634781808920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_66
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 73
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2779c8fe6df4b010800000000000000
+      internalID: 1203865653476947758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_67
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 74
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15920f15bf119d1c0800000000000000
+      internalID: -4478528583334090415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_68
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 76
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc06d295a6af63eb0800000000000000
+      internalID: -4740326223091244852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_69
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 75
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8581ebb9f8f770f50800000000000000
+      internalID: 6847582013210105944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_70
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 75
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85467044a6e1708e0800000000000000
+      internalID: -1727378490316594088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_71
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 76
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cafdec833967c40800000000000000
+      internalID: 5509753066332597326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_72
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 44
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19f0af6f313cfb90800000000000000
+      internalID: -7206831155174115041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_73
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e453e175a1d4bf0800000000000000
+      internalID: -338585435511632329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_74
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1c2cfd40bcf9d30800000000000000
+      internalID: 4440490979404988884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_75
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ef6a6aad39c44f0800000000000000
+      internalID: -843136462917009850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_76
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bf0e74c3b00a500800000000000000
+      internalID: 405336319995214669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_77
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 44
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749c34f2e5872c1c0800000000000000
+      internalID: -4484889932992362169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_78
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 44
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df51d7d7d666cd930800000000000000
+      internalID: 4169319975481054717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_79
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 44
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db556eade3402bff0800000000000000
+      internalID: -21950380176419395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 44
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebe121f82045c2a0800000000000000
+      internalID: -6717892724564825114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_81
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 44
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97057227e14271ae0800000000000000
+      internalID: -1578753431187271559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_82
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 44
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3def719b8e69f30800000000000000
+      internalID: 4582105552565228468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_83
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79458c2b0a1d9910800000000000000
+      internalID: 1845660057585666427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_84
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 44
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcabbbfc1b7798dc0800000000000000
+      internalID: -3636243618546861361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_85
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 44
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e915e2df9e48a0e0800000000000000
+      internalID: -2258468764781307416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_86
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc2deabacde03ff0800000000000000
+      internalID: -58285340180534059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_87
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 44
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65051c08cd583df30800000000000000
+      internalID: 4599166826574860374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_88
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 40
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10946a8e94925ded0800000000000000
+      internalID: -2389958629837616895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_89
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 44
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcc7b54c5b8f3090800000000000000
+      internalID: -8052564380292231945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_90
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471b37dc5494883f0800000000000000
+      internalID: -898387561511931532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_91
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 40
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ef7b34896f1e980800000000000000
+      internalID: -8511250686921933296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_92
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 40
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fd84cd3326c2330800000000000000
+      internalID: 3687430169788210955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_93
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 44
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c55d437a3f7f580800000000000000
+      internalID: -8793291847946117992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_94
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 44
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb1920f739666550800000000000000
+      internalID: 6153721629821705150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_95
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 44
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9b63b275111bfe0800000000000000
+      internalID: -1175138961682155035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_96
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef3a357bdbfcf550800000000000000
+      internalID: 6196104107338121193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_97
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 44
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc924c25ce6a79140800000000000000
+      internalID: 4726429867879705039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_98
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 44
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b9e9bb700ed0010800000000000000
+      internalID: 1156827003121212186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_99
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 44
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dafcca799c4229e0800000000000000
+      internalID: -1647670291590219052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_100
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 44
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4982cfed116795920800000000000000
+      internalID: 2979542447609882772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_101
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 44
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076bad48effd09f30800000000000000
+      internalID: 4580407105279407728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_102
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 44
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ad278b11664cce0800000000000000
+      internalID: -1385870559028258224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_103
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 44
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5f14375de00b4a0800000000000000
+      internalID: -6579742745663769112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_104
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 44
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bac30280cafcb30800000000000000
+      internalID: 4309852519317416849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_105
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401f58b519ee10610800000000000000
+      internalID: 1585810851884298500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_106
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 44
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd44c26789b4f820800000000000000
+      internalID: 2951187646963273181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_107
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ecd3ccf5d2e5770800000000000000
+      internalID: 8601362227795971634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_108
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 44
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bb3fd60e03456f0800000000000000
+      internalID: -696878301860086981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_109
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 44
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129513ebe6b7f3d60800000000000000
+      internalID: 7872146389234440481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_110
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 44
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919a267dcfeb827e0800000000000000
+      internalID: -1789970858725168871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_111
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 40
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aefaec286e5ed6b0800000000000000
+      internalID: -5269670712453693789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_112
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 19
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf342adea1c066860800000000000000
+      internalID: 7522713537364509692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_113
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 19
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4987f2afab19819b0800000000000000
+      internalID: -5109173545004468076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_114
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16682592bde234e80800000000000000
+      internalID: -8195655378058181023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_115
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 19
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f071e95b9fad9880800000000000000
+      internalID: -8602526631445040911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_116
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 19
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5cdf9bfa7c5c310800000000000000
+      internalID: 1424764414686250456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_117
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 19
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ecc048048c10c50800000000000000
+      internalID: 6629800305884974598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_118
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 19
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d14e658d364db50800000000000000
+      internalID: 6617023533335977268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_119
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 19
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48acfc7b1d9c37e0800000000000000
+      internalID: -1784378610958948277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_120
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 19
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235ada3a2af37e750800000000000000
+      internalID: 6334101368683210034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_121
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 19
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0599ebc03a15e50800000000000000
+      internalID: 6796392587811442926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_122
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 19
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7366796c1d36a40800000000000000
+      internalID: 5360358632374810537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_123
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 19
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a273f34d7f4dac00800000000000000
+      internalID: 913473698855613096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_124
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 19
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd5063523bc09c90800000000000000
+      internalID: -7165003590138831409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_125
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 19
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ab5c73298588810800000000000000
+      internalID: 1767760238767094298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_126
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 19
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba08c0866a0c9820800000000000000
+      internalID: 2926225293247515327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_127
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 19
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c5a637cae31e060800000000000000
+      internalID: 6980929807792626739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_128
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 19
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdb15cbf799a2ab0800000000000000
+      internalID: -5032040859733738056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_129
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 19
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbe2b83cf8b896b0800000000000000
+      internalID: -5289274368924128322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_130
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 19
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890e2265e6ed277e0800000000000000
+      internalID: -1769107138130288488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_131
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 15
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c6321cc5847ee60800000000000000
+      internalID: 7991435627006749811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_132
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 19
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d9ec94b702fd6f0800000000000000
+      internalID: -657771306681459313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_133
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 19
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dc3d519ca8c25a0800000000000000
+      internalID: -6544703562216911585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_134
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 19
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771d1e5e92555a050800000000000000
+      internalID: 5811144532630294903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_135
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 15
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9893dab425530b0800000000000000
+      internalID: -5749598864286316084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_136
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 19
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368afa752afbd02e0800000000000000
+      internalID: -2157857942463862685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_137
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 19
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8d17f6102aecd30800000000000000
+      internalID: 4453675208564398254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_138
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 19
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb04e7c0afc67710800000000000000
+      internalID: 1690766999579528121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_139
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 19
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5436e5d30642bd0800000000000000
+      internalID: -2655892063548914196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_140
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 15
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f082d216fcc051cf0800000000000000
+      internalID: -282305316812675057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_141
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 19
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20f356c6a0b2ad60800000000000000
+      internalID: 7900070926699720747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_142
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 19
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe1a13dbc9dfeca0800000000000000
+      internalID: -5985325910308806924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_143
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 19
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec41b924ee8a637d0800000000000000
+      internalID: -2938975965539527474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesson_4_EqualLoudnessCurve_144
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 19
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc96f07b6d5364d60800000000000000
+      internalID: 7874040194814405071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lesson_4_EqualLoudnessCurve_0: -5979886363184293833
+      Lesson_4_EqualLoudnessCurve_1: 4794234390574269482
+      Lesson_4_EqualLoudnessCurve_10: 5870192794716531595
+      Lesson_4_EqualLoudnessCurve_100: 2979542447609882772
+      Lesson_4_EqualLoudnessCurve_101: 4580407105279407728
+      Lesson_4_EqualLoudnessCurve_102: -1385870559028258224
+      Lesson_4_EqualLoudnessCurve_103: -6579742745663769112
+      Lesson_4_EqualLoudnessCurve_104: 4309852519317416849
+      Lesson_4_EqualLoudnessCurve_105: 1585810851884298500
+      Lesson_4_EqualLoudnessCurve_106: 2951187646963273181
+      Lesson_4_EqualLoudnessCurve_107: 8601362227795971634
+      Lesson_4_EqualLoudnessCurve_108: -696878301860086981
+      Lesson_4_EqualLoudnessCurve_109: 7872146389234440481
+      Lesson_4_EqualLoudnessCurve_11: 450714141438063024
+      Lesson_4_EqualLoudnessCurve_110: -1789970858725168871
+      Lesson_4_EqualLoudnessCurve_111: -5269670712453693789
+      Lesson_4_EqualLoudnessCurve_112: 7522713537364509692
+      Lesson_4_EqualLoudnessCurve_113: -5109173545004468076
+      Lesson_4_EqualLoudnessCurve_114: -8195655378058181023
+      Lesson_4_EqualLoudnessCurve_115: -8602526631445040911
+      Lesson_4_EqualLoudnessCurve_116: 1424764414686250456
+      Lesson_4_EqualLoudnessCurve_117: 6629800305884974598
+      Lesson_4_EqualLoudnessCurve_118: 6617023533335977268
+      Lesson_4_EqualLoudnessCurve_119: -1784378610958948277
+      Lesson_4_EqualLoudnessCurve_12: 621041138712045085
+      Lesson_4_EqualLoudnessCurve_120: 6334101368683210034
+      Lesson_4_EqualLoudnessCurve_121: 6796392587811442926
+      Lesson_4_EqualLoudnessCurve_122: 5360358632374810537
+      Lesson_4_EqualLoudnessCurve_123: 913473698855613096
+      Lesson_4_EqualLoudnessCurve_124: -7165003590138831409
+      Lesson_4_EqualLoudnessCurve_125: 1767760238767094298
+      Lesson_4_EqualLoudnessCurve_126: 2926225293247515327
+      Lesson_4_EqualLoudnessCurve_127: 6980929807792626739
+      Lesson_4_EqualLoudnessCurve_128: -5032040859733738056
+      Lesson_4_EqualLoudnessCurve_129: -5289274368924128322
+      Lesson_4_EqualLoudnessCurve_13: 2423625537862404835
+      Lesson_4_EqualLoudnessCurve_130: -1769107138130288488
+      Lesson_4_EqualLoudnessCurve_131: 7991435627006749811
+      Lesson_4_EqualLoudnessCurve_132: -657771306681459313
+      Lesson_4_EqualLoudnessCurve_133: -6544703562216911585
+      Lesson_4_EqualLoudnessCurve_134: 5811144532630294903
+      Lesson_4_EqualLoudnessCurve_135: -5749598864286316084
+      Lesson_4_EqualLoudnessCurve_136: -2157857942463862685
+      Lesson_4_EqualLoudnessCurve_137: 4453675208564398254
+      Lesson_4_EqualLoudnessCurve_138: 1690766999579528121
+      Lesson_4_EqualLoudnessCurve_139: -2655892063548914196
+      Lesson_4_EqualLoudnessCurve_14: -3901324021872710754
+      Lesson_4_EqualLoudnessCurve_140: -282305316812675057
+      Lesson_4_EqualLoudnessCurve_141: 7900070926699720747
+      Lesson_4_EqualLoudnessCurve_142: -5985325910308806924
+      Lesson_4_EqualLoudnessCurve_143: -2938975965539527474
+      Lesson_4_EqualLoudnessCurve_144: 7874040194814405071
+      Lesson_4_EqualLoudnessCurve_15: -5308135681518600792
+      Lesson_4_EqualLoudnessCurve_16: 2913856237613837262
+      Lesson_4_EqualLoudnessCurve_17: 1565102240953863695
+      Lesson_4_EqualLoudnessCurve_18: -2439714015688831993
+      Lesson_4_EqualLoudnessCurve_19: 7406291063340388518
+      Lesson_4_EqualLoudnessCurve_2: -240630880936387700
+      Lesson_4_EqualLoudnessCurve_20: 7829760630621083905
+      Lesson_4_EqualLoudnessCurve_21: -4214099539624785273
+      Lesson_4_EqualLoudnessCurve_22: 2837960181667897369
+      Lesson_4_EqualLoudnessCurve_23: -5435048726090976684
+      Lesson_4_EqualLoudnessCurve_24: 382859340579331109
+      Lesson_4_EqualLoudnessCurve_25: 1344477540359154603
+      Lesson_4_EqualLoudnessCurve_26: 7672170598670911479
+      Lesson_4_EqualLoudnessCurve_27: 4994242945500863968
+      Lesson_4_EqualLoudnessCurve_28: -5209000331086671061
+      Lesson_4_EqualLoudnessCurve_29: 5614632403249841269
+      Lesson_4_EqualLoudnessCurve_3: -6390939201966068844
+      Lesson_4_EqualLoudnessCurve_30: -2397405487011582104
+      Lesson_4_EqualLoudnessCurve_31: 6444174432494962116
+      Lesson_4_EqualLoudnessCurve_32: -1592170565612689475
+      Lesson_4_EqualLoudnessCurve_33: 3727010884225153827
+      Lesson_4_EqualLoudnessCurve_34: 7110160945796244856
+      Lesson_4_EqualLoudnessCurve_35: 2440231106621346910
+      Lesson_4_EqualLoudnessCurve_36: 245505031244360610
+      Lesson_4_EqualLoudnessCurve_37: 2929716311701119996
+      Lesson_4_EqualLoudnessCurve_38: 461616148458301701
+      Lesson_4_EqualLoudnessCurve_39: 8072204094128179037
+      Lesson_4_EqualLoudnessCurve_4: 1645642697324666104
+      Lesson_4_EqualLoudnessCurve_40: 3489618102346397395
+      Lesson_4_EqualLoudnessCurve_41: -9154518692188626345
+      Lesson_4_EqualLoudnessCurve_42: -7765928026541042369
+      Lesson_4_EqualLoudnessCurve_43: 578621017522139512
+      Lesson_4_EqualLoudnessCurve_44: -8059925856283927224
+      Lesson_4_EqualLoudnessCurve_45: 4125198032860962559
+      Lesson_4_EqualLoudnessCurve_46: 7565394057610094637
+      Lesson_4_EqualLoudnessCurve_47: -8638691100232232230
+      Lesson_4_EqualLoudnessCurve_48: -3078287164984180681
+      Lesson_4_EqualLoudnessCurve_49: 1304922523045239440
+      Lesson_4_EqualLoudnessCurve_5: -8151617428818986185
+      Lesson_4_EqualLoudnessCurve_50: 7471379091911174127
+      Lesson_4_EqualLoudnessCurve_51: 5044867091458454268
+      Lesson_4_EqualLoudnessCurve_52: 9043832230804877543
+      Lesson_4_EqualLoudnessCurve_53: -3450875247290359296
+      Lesson_4_EqualLoudnessCurve_54: -5777623484955116679
+      Lesson_4_EqualLoudnessCurve_55: 6789634024683261417
+      Lesson_4_EqualLoudnessCurve_56: -5446125882978431385
+      Lesson_4_EqualLoudnessCurve_57: -7016698990574169971
+      Lesson_4_EqualLoudnessCurve_58: 4843471535059444763
+      Lesson_4_EqualLoudnessCurve_59: 8980794634880276688
+      Lesson_4_EqualLoudnessCurve_6: 4783089477443790895
+      Lesson_4_EqualLoudnessCurve_60: -4477980754820101320
+      Lesson_4_EqualLoudnessCurve_61: -6532726339526193495
+      Lesson_4_EqualLoudnessCurve_62: -8357312547172815876
+      Lesson_4_EqualLoudnessCurve_63: 8607178859333826958
+      Lesson_4_EqualLoudnessCurve_64: -2987281107406238468
+      Lesson_4_EqualLoudnessCurve_65: 3811728634781808920
+      Lesson_4_EqualLoudnessCurve_66: 1203865653476947758
+      Lesson_4_EqualLoudnessCurve_67: -4478528583334090415
+      Lesson_4_EqualLoudnessCurve_68: -4740326223091244852
+      Lesson_4_EqualLoudnessCurve_69: 6847582013210105944
+      Lesson_4_EqualLoudnessCurve_7: 5458599352412215595
+      Lesson_4_EqualLoudnessCurve_70: -1727378490316594088
+      Lesson_4_EqualLoudnessCurve_71: 5509753066332597326
+      Lesson_4_EqualLoudnessCurve_72: -7206831155174115041
+      Lesson_4_EqualLoudnessCurve_73: -338585435511632329
+      Lesson_4_EqualLoudnessCurve_74: 4440490979404988884
+      Lesson_4_EqualLoudnessCurve_75: -843136462917009850
+      Lesson_4_EqualLoudnessCurve_76: 405336319995214669
+      Lesson_4_EqualLoudnessCurve_77: -4484889932992362169
+      Lesson_4_EqualLoudnessCurve_78: 4169319975481054717
+      Lesson_4_EqualLoudnessCurve_79: -21950380176419395
+      Lesson_4_EqualLoudnessCurve_8: -5067096164022409436
+      Lesson_4_EqualLoudnessCurve_80: -6717892724564825114
+      Lesson_4_EqualLoudnessCurve_81: -1578753431187271559
+      Lesson_4_EqualLoudnessCurve_82: 4582105552565228468
+      Lesson_4_EqualLoudnessCurve_83: 1845660057585666427
+      Lesson_4_EqualLoudnessCurve_84: -3636243618546861361
+      Lesson_4_EqualLoudnessCurve_85: -2258468764781307416
+      Lesson_4_EqualLoudnessCurve_86: -58285340180534059
+      Lesson_4_EqualLoudnessCurve_87: 4599166826574860374
+      Lesson_4_EqualLoudnessCurve_88: -2389958629837616895
+      Lesson_4_EqualLoudnessCurve_89: -8052564380292231945
+      Lesson_4_EqualLoudnessCurve_9: -3714416547747640011
+      Lesson_4_EqualLoudnessCurve_90: -898387561511931532
+      Lesson_4_EqualLoudnessCurve_91: -8511250686921933296
+      Lesson_4_EqualLoudnessCurve_92: 3687430169788210955
+      Lesson_4_EqualLoudnessCurve_93: -8793291847946117992
+      Lesson_4_EqualLoudnessCurve_94: 6153721629821705150
+      Lesson_4_EqualLoudnessCurve_95: -1175138961682155035
+      Lesson_4_EqualLoudnessCurve_96: 6196104107338121193
+      Lesson_4_EqualLoudnessCurve_97: 4726429867879705039
+      Lesson_4_EqualLoudnessCurve_98: 1156827003121212186
+      Lesson_4_EqualLoudnessCurve_99: -1647670291590219052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
