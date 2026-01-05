@@ -38,6 +38,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lesson_8_SoundEffects.unity
     guid: f60eae21a45a86a46af9cc87bb9d45bb
+  - enabled: 1
+    path: Assets/Scenes/Lesson_9_Illusions.unity
+    guid: b6a26d1173c90f743ae21bca1a26ceab
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
