@@ -28,10 +28,6 @@ namespace Audio {
             m_source.playOnAwake = false;
             m_source.loop = true;
 
-            if (VolumeManager.Instance != null) {
-                m_source.volume = VolumeManager.Instance.Volume;
-            }
-
             m_rng = new System.Random();
         }
 

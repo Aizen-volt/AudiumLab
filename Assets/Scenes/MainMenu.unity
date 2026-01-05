@@ -1801,7 +1801,7 @@ MonoBehaviour:
     displayName: "Efekty d\u017Awi\u0119kowe"
     description: 
     icon: {fileID: 21300000, guid: 73d722e2be8718c4bb628a1b55627230, type: 3}
-    sceneName: Lesson_8
+    sceneName: Lesson_8_SoundEffects
     totalSlides: 0
   - id: 9
     displayName: Iluzje akustyczne
