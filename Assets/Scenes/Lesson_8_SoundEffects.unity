@@ -3071,7 +3071,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Pos\u0142uchaj se byq"
+  m_text: "Typowe zakresy cz\u0119stotliwo\u015Bci wykorzystywane w equalizerze to:\n\n-
+    bas (20-200 Hz) - energia, \"mi\u0119so\", dudnienie\n- niskie \u015Brodki (200-500
+    Hz) - ciep\u0142o\n- \u015Brodki (500 Hz - 2 kHz) - czytelno\u015B\u0107 mowy
+    i instrument\xF3w\n- wysokie (2-6 kHz) - ostro\u015B\u0107, atak\n- soprany (6-20
+    kHz) - jasno\u015B\u0107"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
