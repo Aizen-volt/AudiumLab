@@ -1795,8 +1795,8 @@ MonoBehaviour:
     displayName: "MIDI i synteza d\u017Awi\u0119ku"
     description: 
     icon: {fileID: 21300000, guid: 8e4e9f161528e0248928281c7f157269, type: 3}
-    sceneName: Lesson_7
-    totalSlides: 0
+    sceneName: Lesson_7_MIDI
+    totalSlides: 4
   - id: 8
     displayName: "Efekty d\u017Awi\u0119kowe"
     description: 
