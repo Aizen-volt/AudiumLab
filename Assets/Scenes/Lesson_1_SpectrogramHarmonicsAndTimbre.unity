@@ -2561,9 +2561,9 @@ PrefabInstance:
     - target: {fileID: 6007252561513758722, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_text
       value: "Spektrogram to spos\xF3b przedstawiania d\u017Awi\u0119ku, kt\xF3ry
-        pokazuje jak zmieniaj\u0105 si\u0119 cz\u0119stotliwo\u015Bci w czasie. Ka\u017Cdy
-        spektrogram ma trzy elementy:\n\nO\u015B pozioma (X) - czas\n\nO\u015B pionowa
-        (Y) - cz\u0119stotliwo\u015B\u0107\n\nKolor - energia (g\u0142o\u015Bno\u015B\u0107)
+        pokazuje jak zmieniaj\u0105 si\u0119 <b>cz\u0119stotliwo\u015Bci w czasie</b>.
+        Ka\u017Cdy spektrogram ma trzy elementy:\n\nO\u015B pozioma (X) - <b>czas</b>\n\nO\u015B
+        pionowa (Y) - <b>cz\u0119stotliwo\u015B\u0107</b>\n\nKolor - <b>energia (g\u0142o\u015Bno\u015B\u0107)</b>
         danej cz\u0119stotliwo\u015Bci. Ja\u015Bniejsze kolory oznaczaj\u0105 silniejsze
         sk\u0142adowe cz\u0119stotliwo\u015Bci."
       objectReference: {fileID: 0}
@@ -3148,8 +3148,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6007252561513758722, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_text
-      value: "\nCzysta sinusoida - jedna cienka, pozioma linia.\n\nD\u017Awi\u0119k
-        harmoniczny (instrument, mowa) - wiele r\xF3wnoleg\u0142ych linii.\n\nSzum
+      value: "\n<b>Czysta sinusoida </b>- jedna cienka, pozioma linia.\n\n<b>D\u017Awi\u0119k
+        harmoniczny</b> (instrument, mowa) - wiele r\xF3wnoleg\u0142ych linii.\n\n<b>Szum</b>
         - r\xF3wnomierne \u201Ewype\u0142nienie\u201D ca\u0142ego zakresu cz\u0119stotliwo\u015Bci.\n"
       objectReference: {fileID: 0}
     - target: {fileID: 6587118492794903600, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
@@ -4554,11 +4554,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6007252561513758722, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_text
-      value: "Barwa d\u017Awi\u0119ku zale\u017Cy od tego, kt\xF3re harmoniczne dominuj\u0105:\n\nD\u017Awi\u0119k
-        \u201Ejasny\u201D - silne wy\u017Csze harmoniczne (skrzypce, tr\u0105bka).\n\nD\u017Awi\u0119k
-        \u201Eciemny\u201D - silniejszy ton podstawowy i ni\u017Csze harmoniczne
-        (flet, g\u0142os ludzki w niskich rejestrach).\n\nD\u017Awi\u0119k \u201Emi\u0119kki\u201D
-        - s\u0142absze harmoniczne, \u0142agodny atak.\n\nD\u017Awi\u0119k \u201Eostry\u201D
+      value: "Barwa d\u017Awi\u0119ku zale\u017Cy od tego, kt\xF3re harmoniczne dominuj\u0105:\n\n<b>D\u017Awi\u0119k
+        \u201Ejasny\u201D</b> - silne wy\u017Csze harmoniczne (skrzypce, tr\u0105bka).\n\n<b>D\u017Awi\u0119k
+        \u201Eciemny\u201D</b> - silniejszy ton podstawowy i ni\u017Csze harmoniczne
+        (flet, g\u0142os ludzki w niskich rejestrach).\n\n<b>D\u017Awi\u0119k \u201Emi\u0119kki\u201D</b>
+        - s\u0142absze harmoniczne, \u0142agodny atak.\n\n<b>D\u017Awi\u0119k \u201Eostry\u201D</b>
         - wyra\u017Ane, silne harmoniczne."
       objectReference: {fileID: 0}
     - target: {fileID: 6007252561513758722, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
@@ -5010,7 +5010,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -0.0000076294, y: -244}
-  m_SizeDelta: {x: 516.0216, y: 285.59}
+  m_SizeDelta: {x: 554.5, y: 266.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1657837945
 MonoBehaviour:
