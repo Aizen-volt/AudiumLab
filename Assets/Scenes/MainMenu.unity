@@ -1783,8 +1783,8 @@ MonoBehaviour:
     displayName: "6. Pr\xF3bkowanie i kwantyzacja"
     description: 
     icon: {fileID: 21300000, guid: 9ca7e2eeba9fcff4bbbe60742d916858, type: 3}
-    sceneName: Lesson_5
-    totalSlides: 3
+    sceneName: Lesson_5_Quantization
+    totalSlides: 8
   - id: 6
     displayName: 7. Kompresja i formaty audio
     description: 

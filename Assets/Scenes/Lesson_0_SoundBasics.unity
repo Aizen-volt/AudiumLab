@@ -862,14 +862,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6007252561513758722, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_text
-      value: "Faza okre\u015Bla, w kt\xF3rym momencie cyklu zaczyna si\u0119 fala.\n\nDwie
-        fale o tej samej cz\u0119stotliwo\u015Bci, ale przesuni\u0119te w fazie,
-        mog\u0105 si\u0119 sumowa\u0107 lub znosi\u0107.\n\nTo zjawisko nazywamy
-        interferencj\u0105.\n\nW\u0142\u0105cz odtwarzanie dw\xF3ch ton\xF3w sinusoidalnych
-        przesuni\u0119tych wzgl\u0119dem siebie za pomoc\u0105 przycisku \"Odtw\xF3rz\"
-        poni\u017Cej. Zmieniaj faz\u0119 za pomoc\u0105 suwaka. Zaobserwuj zmian\u0119
-        g\u0142o\u015Bno\u015Bci dla \u03C6 < 180\xB0, \u03C6 = 180\xB0, \u03C6 >
-        180\xB0. Zako\u0144cz odtwarzanie przyciskiem \"Zatrzymaj\"."
+      value: "<b>Faza</b> okre\u015Bla, w kt\xF3rym momencie cyklu zaczyna si\u0119
+        fala.\n\nDwie fale o tej samej cz\u0119stotliwo\u015Bci, ale przesuni\u0119te
+        w fazie, mog\u0105 si\u0119 <b>sumowa\u0107 lub znosi\u0107</b>.\n\nTo zjawisko
+        nazywamy <b>interferencj\u0105</b>.\n\nW\u0142\u0105cz odtwarzanie <b>dw\xF3ch
+        ton\xF3w sinusoidalnych</b>, przesuni\u0119tych wzgl\u0119dem siebie, za
+        pomoc\u0105 przycisku \"Odtw\xF3rz\" poni\u017Cej. Zmieniaj faz\u0119 za
+        pomoc\u0105 suwaka. Zaobserwuj zmian\u0119 g\u0142o\u015Bno\u015Bci dla \u03C6
+        < 180\xB0, \u03C6 = 180\xB0, \u03C6 > 180\xB0. Zako\u0144cz odtwarzanie przyciskiem
+        \"Zatrzymaj\"."
       objectReference: {fileID: 0}
     - target: {fileID: 6007252561513758722, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_HorizontalAlignment
@@ -1936,15 +1937,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6007252561513758722, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_text
-      value: "Ka\u017Cdy d\u017Awi\u0119k okresowy mo\u017Cna opisa\u0107 przebiegiem
-        w czasie. To, jak wygl\u0105da jego kszta\u0142t, wp\u0142ywa na barw\u0119,
-        nawet je\u015Bli wysoko\u015B\u0107 d\u017Awi\u0119ku jest taka sama.\n\nSinusoida
-        - brzmi \u201Eczysto\u201D, jak idealny ton laboratoryjny.\n\nFala prostok\u0105tna
-        - brzmi jasno, \u201Episzcz\u0105co\u201D, przypomina d\u017Awi\u0119k starych
-        gier wideo.\n\nFala pi\u0142okszta\u0142tna - brzmi bardzo bogato i ostro.
-        Cz\u0119sto u\u017Cywana w syntezatorach analogowych.\n\nFala tr\xF3jk\u0105tna
-        - brzmi \u0142agodniej ni\u017C prostok\u0105t, ale pe\u0142niej ni\u017C
-        sinusoida."
+      value: "Ka\u017Cdy <b>d\u017Awi\u0119k okresowy</b> mo\u017Cna opisa\u0107
+        przebiegiem w czasie. To, jak wygl\u0105da jego kszta\u0142t, wp\u0142ywa
+        na <b>barw\u0119</b>, nawet je\u015Bli wysoko\u015B\u0107 d\u017Awi\u0119ku
+        jest taka sama.\n\n<b>Sinusoida</b> - brzmi \u201Eczysto\u201D, jak idealny
+        ton laboratoryjny.\n\n<b>Fala prostok\u0105tna</b> - brzmi jasno, \u201Episzcz\u0105co\u201D,
+        przypomina d\u017Awi\u0119k starych gier wideo.\n\n<b>Fala pi\u0142okszta\u0142tna</b>
+        - brzmi bardzo bogato i ostro. Cz\u0119sto u\u017Cywana w syntezatorach analogowych.\n\n<b>Fala
+        tr\xF3jk\u0105tna</b> - brzmi \u0142agodniej ni\u017C prostok\u0105t, ale
+        pe\u0142niej ni\u017C sinusoida."
       objectReference: {fileID: 0}
     - target: {fileID: 6007252561513758722, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_HorizontalAlignment
@@ -2358,7 +2359,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 128114162488023946, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 217.46854
+      value: 175
       objectReference: {fileID: 0}
     - target: {fileID: 128114162488023946, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -2534,13 +2535,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6007252561513758722, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_text
-      value: "Amplituda to maksymalne wychylenie fali.\n\nIm wi\u0119ksza amplituda,
-        tym wi\u0119ksza energia fali \u2013 i tym g\u0142o\u015Bniejszy d\u017Awi\u0119k.\n\nZmiana
-        amplitudy nie wp\u0142ywa na wysoko\u015B\u0107 tonu.\n\nW\u0142\u0105cz
-        odtwarzanie tonu sinusoidalnego za pomoc\u0105 przycisku \"Odtw\xF3rz\" poni\u017Cej.
-        Zmieniaj amplitud\u0119 generowanego d\u017Awi\u0119ku za pomoc\u0105 suwaka.
-        Zaobserwuj zmiany w g\u0142o\u015Bno\u015Bci d\u017Awi\u0119ku. Zako\u0144cz
-        odtwarzanie przyciskiem \"Zatrzymaj\"."
+      value: "<b>Amplituda</b> to maksymalne wychylenie fali.\n\nIm wi\u0119ksza
+        amplituda, tym <b>wi\u0119ksza energia</b> fali - i tym <b>g\u0142o\u015Bniejszy
+        d\u017Awi\u0119k</b>.\n\nZmiana amplitudy <b>nie wp\u0142ywa na wysoko\u015B\u0107
+        tonu</b>.\n\nW\u0142\u0105cz odtwarzanie <b>tonu sinusoidalnego</b> za pomoc\u0105
+        przycisku \"Odtw\xF3rz\" poni\u017Cej. Zmieniaj amplitud\u0119 generowanego
+        d\u017Awi\u0119ku za pomoc\u0105 suwaka. Zaobserwuj zmiany w g\u0142o\u015Bno\u015Bci
+        d\u017Awi\u0119ku. Zako\u0144cz odtwarzanie przyciskiem \"Zatrzymaj\"."
       objectReference: {fileID: 0}
     - target: {fileID: 6587118492794903600, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -2560,9 +2561,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7281967315674303730, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 652.40564
+      value: 875
       objectReference: {fileID: 0}
     - target: {fileID: 7281967315674303730, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -50
+      objectReference: {fileID: 0}
+    - target: {fileID: 8977502180276770955, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8977502180276770955, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8977502180276770955, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 525
+      objectReference: {fileID: 0}
+    - target: {fileID: 8977502180276770955, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -50
       objectReference: {fileID: 0}
@@ -3620,7 +3637,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 128114162488023946, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 217.46854
+      value: 175
       objectReference: {fileID: 0}
     - target: {fileID: 128114162488023946, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -3822,11 +3839,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7281967315674303730, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 652.40564
+      value: 875
       objectReference: {fileID: 0}
     - target: {fileID: 7281967315674303730, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -50
+      objectReference: {fileID: 0}
+    - target: {fileID: 8977502180276770955, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8977502180276770955, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8977502180276770955, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 525
+      objectReference: {fileID: 0}
+    - target: {fileID: 8977502180276770955, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -50
+      objectReference: {fileID: 0}
+    - target: {fileID: 9196485769349290886, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5223,9 +5260,9 @@ PrefabInstance:
     - target: {fileID: 6007252561513758722, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_text
       value: "W\u0142\u0105cz odtwarzanie d\u017Awi\u0119ku za pomoc\u0105 przycisku
-        \"Odtw\xF3rz\" poni\u017Cej. Za pomoc\u0105 dedykowanych przycisk\xF3w zmieniaj
-        typ generowanej fali. Zaobserwuj zmiany w brzmieniu d\u017Awi\u0119ku. Zako\u0144cz
-        odtwarzanie przyciskiem \"Zatrzymaj\".\n\nWybrana fala: "
+        \"Odtw\xF3rz\" poni\u017Cej. Za pomoc\u0105 dedykowanych przycisk\xF3w <b>zmieniaj
+        typ generowanej fali</b>. Zaobserwuj zmiany w brzmieniu d\u017Awi\u0119ku.
+        Zako\u0144cz odtwarzanie przyciskiem \"Zatrzymaj\".\n\nWybrana fala: "
       objectReference: {fileID: 0}
     - target: {fileID: 6007252561513758722, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_HorizontalAlignment
@@ -6234,7 +6271,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 128114162488023946, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 217.46854
+      value: 175
       objectReference: {fileID: 0}
     - target: {fileID: 128114162488023946, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -6412,11 +6449,12 @@ PrefabInstance:
       propertyPath: m_text
       value: "Cz\u0119stotliwo\u015B\u0107 okre\u015Bla, ile drga\u0144 na sekund\u0119
         wykonuje fala d\u017Awi\u0119kowa.\n\nJednostk\u0105 cz\u0119stotliwo\u015Bci
-        jest herc (Hz).\n\nIm wy\u017Csza cz\u0119stotliwo\u015B\u0107, tym wy\u017Cszy
-        ton s\u0142yszymy.\n\nW\u0142\u0105cz odtwarzanie tonu sinusoidalnego za
-        pomoc\u0105 przycisku \"Odtw\xF3rz\" poni\u017Cej. Zmieniaj cz\u0119stotliwo\u015B\u0107
-        generowanego d\u017Awi\u0119ku za pomoc\u0105 suwaka. Zaobserwuj zmiany w
-        wysoko\u015Bci d\u017Awi\u0119ku. Zako\u0144cz odtwarzanie przyciskiem \"Zatrzymaj\"."
+        jest <b>herc</b> (Hz).\n\nIm <b>wy\u017Csza cz\u0119stotliwo\u015B\u0107</b>,
+        tym <b>wy\u017Cszy ton</b> s\u0142yszymy.\n\nW\u0142\u0105cz odtwarzanie
+        <b>tonu sinusoidalnego</b> za pomoc\u0105 przycisku \"Odtw\xF3rz\" poni\u017Cej.
+        Zmieniaj cz\u0119stotliwo\u015B\u0107 generowanego d\u017Awi\u0119ku za pomoc\u0105
+        suwaka. Zaobserwuj zmiany w wysoko\u015Bci d\u017Awi\u0119ku. Zako\u0144cz
+        odtwarzanie przyciskiem \"Zatrzymaj\"."
       objectReference: {fileID: 0}
     - target: {fileID: 6587118492794903600, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -6436,9 +6474,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7281967315674303730, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 652.40564
+      value: 875
       objectReference: {fileID: 0}
     - target: {fileID: 7281967315674303730, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -50
+      objectReference: {fileID: 0}
+    - target: {fileID: 8977502180276770955, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8977502180276770955, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8977502180276770955, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 525
+      objectReference: {fileID: 0}
+    - target: {fileID: 8977502180276770955, guid: 15856d17d8972054a8a07e82dfa90f01, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -50
       objectReference: {fileID: 0}
