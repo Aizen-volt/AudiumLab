@@ -1536,7 +1536,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Wersja: 0.1.0'
+  m_text: 'Wersja: 1.0.1'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a2a447846c2fb964ab0361a6b512d3dc, type: 2}
   m_sharedMaterial: {fileID: 5014204230274260728, guid: a2a447846c2fb964ab0361a6b512d3dc, type: 2}
@@ -1750,65 +1750,65 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lessons:
   - id: 0
-    displayName: "Czym jest d\u017Awi\u0119k?"
+    displayName: "1. Czym jest d\u017Awi\u0119k?"
     description: 
     icon: {fileID: 21300000, guid: 2f28d0b4aff6c3b4fba7f572544e27c6, type: 3}
     sceneName: Lesson_0_SoundBasics
     totalSlides: 3
   - id: 1
-    displayName: Spektrogram, alikwoty i barwa
+    displayName: 2. Spektrogram, alikwoty i barwa
     description: 
     icon: {fileID: 21300000, guid: 6b085bedfcf460049bf0376cc9c23456, type: 3}
     sceneName: Lesson_1_SpectrogramHarmonicsAndTimbre
     totalSlides: 3
   - id: 2
-    displayName: "Interwa\u0142y"
+    displayName: "3. Interwa\u0142y"
     description: 
     icon: {fileID: 21300000, guid: 94270f6cf5e3f394cbc9d2de83030a96, type: 3}
     sceneName: Lesson_2_Intervals
     totalSlides: 3
   - id: 3
-    displayName: Temperacja
+    displayName: 4. Temperacja
     description: 
     icon: {fileID: 21300000, guid: 1c9e161b49da70747ba654ebcc645759, type: 3}
     sceneName: Lesson_3_Temperament
     totalSlides: 3
   - id: 4
-    displayName: "Percepcja s\u0142uchu"
+    displayName: "5. Percepcja s\u0142uchu"
     description: 
     icon: {fileID: 21300000, guid: 3fe4fb4eec7386845a2d4220dee5593b, type: 3}
-    sceneName: Lesson_4
+    sceneName: Lesson_4_SoundPerception
     totalSlides: 3
   - id: 5
-    displayName: "Pr\xF3bkowanie i kwantyzacja"
+    displayName: "6. Pr\xF3bkowanie i kwantyzacja"
     description: 
     icon: {fileID: 21300000, guid: 9ca7e2eeba9fcff4bbbe60742d916858, type: 3}
     sceneName: Lesson_5_Quantization
-    totalSlides: 0
+    totalSlides: 8
   - id: 6
-    displayName: Kompresja i formaty audio
+    displayName: 7. Kompresja i formaty audio
     description: 
     icon: {fileID: 21300000, guid: 071f91d3305b3bd4ab8b1569e37ec19d, type: 3}
-    sceneName: Lesson_6
-    totalSlides: 0
+    sceneName: Lesson_6_CompressionAndAudioFormats
+    totalSlides: 3
   - id: 7
-    displayName: "MIDI i synteza d\u017Awi\u0119ku"
+    displayName: "8. MIDI i synteza d\u017Awi\u0119ku"
     description: 
     icon: {fileID: 21300000, guid: 8e4e9f161528e0248928281c7f157269, type: 3}
-    sceneName: Lesson_7
-    totalSlides: 0
+    sceneName: Lesson_7_MIDI
+    totalSlides: 4
   - id: 8
-    displayName: "Efekty d\u017Awi\u0119kowe"
+    displayName: "9. Efekty d\u017Awi\u0119kowe"
     description: 
     icon: {fileID: 21300000, guid: 73d722e2be8718c4bb628a1b55627230, type: 3}
-    sceneName: Lesson_8
-    totalSlides: 0
+    sceneName: Lesson_8_SoundEffects
+    totalSlides: 4
   - id: 9
-    displayName: Iluzje akustyczne
+    displayName: 10. Iluzje akustyczne
     description: 
     icon: {fileID: 21300000, guid: 697dd234a1256bd4ebb2a499d145ea3f, type: 3}
-    sceneName: Lesson_9
-    totalSlides: 0
+    sceneName: Lesson_9_Illusions
+    totalSlides: 4
 --- !u!1 &1885422881
 GameObject:
   m_ObjectHideFlags: 0

@@ -17,7 +17,7 @@ namespace Audio {
             get => m_volume;
             set {
                 m_volume = value;
-
+                AudioListener.volume = m_volume;
                 PlayerPrefs.SetFloat(k_volumePrefsKey, m_volume);
                 PlayerPrefs.Save();
             }
@@ -35,6 +35,7 @@ namespace Audio {
 
             if (PlayerPrefs.HasKey(k_volumePrefsKey)) {
                 m_volume = Mathf.Clamp01(PlayerPrefs.GetFloat(k_volumePrefsKey, 1.0f));
+                AudioListener.volume = m_volume;
             } else {
                 m_volume = 1.0f;
                 PlayerPrefs.SetFloat(k_volumePrefsKey, m_volume);

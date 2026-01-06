@@ -29,6 +29,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lesson_5_Quantization.unity
     guid: 5a2f43f25d50b4341a85c7ec5fc3bea3
+  - enabled: 1
+    path: Assets/Scenes/Lesson_4_SoundPerception.unity
+    guid: cf26d4ffb45aa97429424faa9c29de7c
+  - enabled: 1
+    path: Assets/Scenes/Lesson_6_CompressionAndAudioFormats.unity
+    guid: 8f8ddc9fd67016741a73aa3e837af970
+  - enabled: 1
+    path: Assets/Scenes/Lesson_7_MIDI.unity
+    guid: 0e4e7ec03f0e21b43a4da27af9a1d4f4
+  - enabled: 1
+    path: Assets/Scenes/Lesson_8_SoundEffects.unity
+    guid: f60eae21a45a86a46af9cc87bb9d45bb
+  - enabled: 1
+    path: Assets/Scenes/Lesson_9_Illusions.unity
+    guid: b6a26d1173c90f743ae21bca1a26ceab
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
